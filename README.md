@@ -15,7 +15,7 @@ By 2030, TR Tech Solutions aims to be Arkansas’s leading cybersecurity provide
 - **Follow Us**: Join our [X campaign](https://x.com/yourhandle) for faith-inspired cybersecurity reels launching Q1 2026.
 - **Contribute**: Help build CyberWise or our disinfection tool. See [Contributing](CONTRIBUTING.md).
 - **Join Our Community**: Engage in mentorship or workshops via [Community](docs/Community.md).
-- **Contact**: Reach out on X (@yourhandle) or email (your.email@example.com).
+- **Contact**: Reach out on X (@yourhandle) or email (ajenkins@thereachtechsolutions.com).
 
 ## Key Projects
 - **CyberWise App**: A mobile app for phishing and password protection, launching MVP by mid-2026.

@@ -6,6 +6,16 @@ VPS Provider: RackGenius
 OS: Ubuntu Server 22.04 LTS
 Purpose: Host Wazuh, CrowdSec, Graylog, and AI awareness modules.
 
+✅ You’ve Achieved:
+
+Secure SSH access and sudo user
+
+Hardened remote login
+
+Wazuh installed, dashboard ready
+
+Clean reboot + snapshot checkpoint
+
 1. VPS Deployment Issues
 
 Initially struggled to log in via SSH:

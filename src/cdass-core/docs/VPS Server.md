@@ -16,6 +16,8 @@ Wazuh installed, dashboard ready
 
 Clean reboot + snapshot checkpoint
 
+--------------------------------------------------------------------------------------------------------------
+
 1. VPS Deployment Issues
 
 Initially struggled to log in via SSH:

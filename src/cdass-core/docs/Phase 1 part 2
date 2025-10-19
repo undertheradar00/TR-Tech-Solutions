@@ -1,0 +1,7 @@
+When you come back, we’ll:
+
+Install CrowdSec and link it to Wazuh logs.
+
+Deploy Graylog via Docker Compose for log correlation.
+
+Start building the AI Awareness Add-on.
